@@ -1,0 +1,25 @@
+# RSpec
+spec/examples.txt
+
+# Gem dependencies
+Gemfile.lock
+.bundle/
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ruby
+*.gem
+*.rbc
+.rvmrc
+.ruby-version
+.ruby-gemset
+
